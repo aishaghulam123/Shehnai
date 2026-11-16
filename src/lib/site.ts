@@ -1,6 +1,6 @@
 // ✏️  Live domain milte hi sirf yeh ek line badal dein (aakhir mein "/" na lagayein).
 // WhatsApp/Facebook preview ke liye og:image ka poora (absolute) URL zaroori hota hai.
-export const SITE_URL = "https://shehnai.vercel.app";
+export const SITE_URL = "https://shehnai-invitation.vercel.app";
 
 export const SHARE = {
   title: "You're Invited | Wedding Invitation",
